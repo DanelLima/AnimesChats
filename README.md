@@ -16,7 +16,6 @@ AnimesChats é o meu projeto de conclusão de curso para ténico de informática
 
 ## Instalação
 
-1. Clone o repositório:
-
+1. Clone o repositório na pasta htdocs do XAMPP:
    ```bash
    git clone https://github.com/DanelLima/AnimesChats.git
