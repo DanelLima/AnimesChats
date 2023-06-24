@@ -11,7 +11,7 @@ AnimesChats é o meu projeto de conclusão de curso para ténico de informática
 ## Tecnologias utilizadas
 
 - HTML, CSS, JavaScript (Ajax, Jquery) para a interface do usuário
-- PHP para o backend do chat
+- PHP para o backend do sistema
 - Banco de dados SQL para armazenamento dos dados
 
 ## Instalação
